@@ -1,11 +1,11 @@
 # Matt J. Davidson, MEd
 
 
-## Biography
+## Education
 
 Let's put placeholder text, to see how things will look with formatting.
 
-## Research Interests
+## Research
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
