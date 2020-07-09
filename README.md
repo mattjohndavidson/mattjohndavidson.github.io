@@ -1,13 +1,21 @@
-# Matt J. Davidson, MEd
+## Biography
 
+I am a PhD candidate at the University of Washington College of Education, in the Measurement and Statistics area. My research works to improve the reliability, validity, and equity of CS assessments by bringing together CS education, psychometrics, and analysis of log data.
+
+## Interests
+
+- Psychometrics
+- Computing Education
+- Log Data
+- Educational Statistics
+- Cognitive Processes
+- Anti-racist Psychometrics
 
 ## Education
 
-Let's put placeholder text, to see how things will look with formatting.
-
-## Research
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- PhD Candidate in Measurement and Statistics, College of Education, University of Washington, 2017 -
+- MEd in Learning Sciences, College of Education, University of Washington, 2012 - 2014
+- BA in History, English, and Philosophy, University of Texas, 2002 - 2007
 
 ## Publications
 
