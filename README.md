@@ -12,11 +12,11 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 ## Education
 
 - PhD Candidate in Measurement and Statistics, 2017 -  
-University of Washington
+*University of Washington*
 - MEd in Learning Sciences, 2014  
-University of Washington
+*University of Washington*
 - BA in History, English, and Philosophy, 2007  
-University of Texas
+*University of Texas*
 
 ## Recent Work
 - Xie, B., Davidson, M.J., Li, M. & Ko, A. (2019, February).  *An Item Response Theory Evaluation of a Language-Independent CS1 Knowledge Assessment.* Presented at the Association of Computing Machinery (ACM) Special Interest Group on Computer Science Education Technical Symposium, Minneapolis, Minnesota.
