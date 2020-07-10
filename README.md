@@ -13,9 +13,9 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 
 - PhD Candidate in Measurement and Statistics, College of Education, 2017 -  
 University of Washington
-- MEd in Learning Sciences, College of Education, 2012 - 2014  
+- MEd in Learning Sciences, College of Education, 2014  
 University of Washington
-- BA in History, English, and Philosophy, 2002 - 2007  
+- BA in History, English, and Philosophy, 2007  
 University of Texas
 
 ## Recent Work
