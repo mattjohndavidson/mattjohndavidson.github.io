@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
 logo: matt-cropped.jpg
 title: Matt J. Davidson
+title: Testing this option
 description: <a href="mailto:mattjd@uw.edu">email me</a>
-author: Matt Davidson
-social-network-links:
-  email: "mattjd@uw.edu"
-  google-scholar: "https://scholar.google.com/citations?authuser=1&user=R2cnZqwAAAAJ"
+
+
