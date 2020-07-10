@@ -1,4 +1,3 @@
-# Matt J. Davidson
 
 ## Biography
 
@@ -6,11 +5,9 @@ I am a PhD candidate at the University of Washington College of Education, in th
 
 ## Interests
 
-- Psychometrics
 - Computing Education
 - Log Data
 - Educational Statistics
-- Cognitive Processes
 - Anti-racist Psychometrics
 
 ## Education
@@ -19,14 +16,8 @@ I am a PhD candidate at the University of Washington College of Education, in th
 - MEd in Learning Sciences, College of Education, University of Washington, 2012 - 2014
 - BA in History, English, and Philosophy, University of Texas, 2002 - 2007
 
-## Publications
+## Recent Work
+- Xie, B., Davidson, M.J., Li, M. & Ko, A. (2019, February).  An Item Response Theory Evaluation of a Language-Independent CS1 Knowledge Assessment. Presented at the Association of Computing Machinery (ACM) Special Interest Group on Computer Science Education Technical Symposium, Minneapolis, Minnesota.
 
-- Bulleted
-- List
-
-## Contact
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Xie, B., Loksa, D., Nelson, G.L., Davidson, M.J., Dong, D., Kwik, H., Tan, A.H., Hwa, L., Li, M., & Ko, A.J. (2019). A Theory of Instruction for Introductory Programming Skills. Computer Science Education. https://doi.org/10.1080/08993408.2019.1565235
 
