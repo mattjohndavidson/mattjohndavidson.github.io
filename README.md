@@ -1,4 +1,4 @@
-Matt is a PhD candidate at the University of Washington College of Education, in the Measurement and Statistics area. His research works to improve the reliability, validity, and equity of CS assessments by bringing together CS education, psychometrics, and analysis of log data.
+Matt is a PhD candidate at the University of Washington College of Education, in the Measurement and Statistics area. His research works to improve the reliability, validity, and equity of CS assessments by bringing together psychometrics, CS education, and log data analysis methods.
 
 ## Interests
 
