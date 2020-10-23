@@ -17,6 +17,7 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 *University of Texas*
 
 ## Recent Work
+- Ko, A.J., Oleson, A., Ryan, N., Register, Y., Xie, B., Tari, M., Davidson, M., Druga, S., and Loksa, D. (2020 November). *It is time for more critical CS education*. Communications of the ACM 63:11, 31–33. https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext
 
 - Davidson, M.J., Fan, F. Dallas, D., Goodman, J., Weir, J.B. (2020, April). *Modeling Latent Ability Change in a Longitudinal Assessment: a MIRT Approach.* Accepted for presentation at National Council on Measurement in Education Annual Meeting, original location San Francisco, California. 
 
