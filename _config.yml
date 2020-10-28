@@ -1,5 +1,30 @@
-theme: jekyll-theme-minimal
-logo: matt-cropped.jpg
-title: Matt J. Davidson
-custom_title: Matt J. Davidson
-description: <a href="http://mypronouns.org/he">(he/him/his pronouns)</a>  <br><a href="mdavidson_cv_9-20.pdf">cv</a><br><a href="https://www.linkedin.com/in/matt-davidson-he-him-92379916/">linkedin</a></br> <br><a href="mailto:mattjd@uw.edu">email me</a></br>
+# Site settings
+remote-theme: bogoli/-folio
+title: *folio
+email: you@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: twitter_username
+github_username:  github_username
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  poetry:
+    output: true
+    permalink: /poetry/:path/
+
+
