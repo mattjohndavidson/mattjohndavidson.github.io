@@ -18,10 +18,10 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 
 ## Recent Work
 
-- Davidson, M., Wortzman, B., Ko, A.J., & Li, M. (2021 March). *Investigating Item Bias in a CS1 Exam with Differential Item Functioning*. SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 1142–1148. https://doi.org/10.1145/3408877.3432397
-[https://doi.org/10.1145/3408877.3432397]
+- Davidson, M., Wortzman, B., Ko, A.J., & Li, M. (2021 March). *Investigating Item Bias in a CS1 Exam with Differential Item Functioning*. SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 1142–1148. [https://doi.org/10.1145/3408877.3432397]
+(https://doi.org/10.1145/3408877.3432397)
 
-- Ko, A.J., Oleson, A., Ryan, N., Register, Y., Xie, B., Tari, M., Davidson, M., Druga, S., and Loksa, D. (2020 November). *It is time for more critical CS education*. Communications of the ACM 63:11, 31–33. https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext[https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext]
+- Ko, A.J., Oleson, A., Ryan, N., Register, Y., Xie, B., Tari, M., Davidson, M., Druga, S., and Loksa, D. (2020 November). *It is time for more critical CS education*. Communications of the ACM 63:11, 31–33. [https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext](https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext)
 
 - Davidson, M.J., Fan, F. Dallas, D., Goodman, J., Weir, J.B. (2020, April). *Modeling Latent Ability Change in a Longitudinal Assessment: a MIRT Approach.* Accepted for presentation at National Council on Measurement in Education Annual Meeting, original location San Francisco, California. 
 
@@ -29,6 +29,6 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 
 - Xie, B., Davidson, M.J., Li, M. & Ko, A. (2019, February).  *An Item Response Theory Evaluation of a Language-Independent CS1 Knowledge Assessment.* Presented at the Association of Computing Machinery (ACM) Special Interest Group on Computer Science Education Technical Symposium, Minneapolis, Minnesota.
 
-- Xie, B., Loksa, D., Nelson, G.L., Davidson, M.J., Dong, D., Kwik, H., Tan, A.H., Hwa, L., Li, M., & Ko, A.J. (2019). *A Theory of Instruction for Introductory Programming Skills.* Computer Science Education. https://doi.org/10.1080/08993408.2019.1565235[https://doi.org/10.1080/08993408.2019.1565235]
+- Xie, B., Loksa, D., Nelson, G.L., Davidson, M.J., Dong, D., Kwik, H., Tan, A.H., Hwa, L., Li, M., & Ko, A.J. (2019). *A Theory of Instruction for Introductory Programming Skills.* Computer Science Education. [https://doi.org/10.1080/08993408.2019.1565235](https://doi.org/10.1080/08993408.2019.1565235)
 
 - Davidson, M., Dong, D., Xie, B., Loska, D., Li, M., & Ko, A. (2018, June). *Assessing Programming Knowledge and Skills: A Theory-based Approach.* Presented at the International Test Commission, Montreal, Ontario, Canada
