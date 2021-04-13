@@ -18,9 +18,9 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 
 ## Recent Work
 
-- Davidson, M. & Li, M. (2021 April). *Nonconstruct Item Features and Response Processes in Computer Science Assessments: Evidence From Think-Alouds and Sequence Analysis*. Presented at the American Education Research Association Annual Meeting, virtual event. [bit.ly/AERA21-poster](View the iPresentation), [bit.ly/AERA21-video](Watch a recording of the talk (youtube)), [bit.ly/AERA21-sequences](Read a blog post on the methods we used)
+- Davidson, M. & Li, M. (2021 April). *Nonconstruct Item Features and Response Processes in Computer Science Assessments: Evidence From Think-Alouds and Sequence Analysis*. Presented at the American Education Research Association Annual Meeting, virtual event. [View the iPresentation](https://bit.ly/AERA21-poster), [Watch a recording of the talk (youtube)](https://bit.ly/AERA21-video), [Read a blog post on the methods we used](https://bit.ly/AERA21-sequences)
 
-- Davidson, M., Wortzman, B., Ko, A.J., & Li, M. (2021 March). *Investigating Item Bias in a CS1 Exam with Differential Item Functioning*. SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 1142–1148. [https://doi.org/10.1145/3408877.3432397](https://doi.org/10.1145/3408877.3432397) More at [bit.ly/sigcse21DIF](bit.ly/sigcse21DIF)
+- Davidson, M., Wortzman, B., Ko, A.J., & Li, M. (2021 March). *Investigating Item Bias in a CS1 Exam with Differential Item Functioning*. SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 1142–1148. [https://doi.org/10.1145/3408877.3432397](https://doi.org/10.1145/3408877.3432397) More at [bit.ly/sigcse21DIF](https://bit.ly/sigcse21DIF)
 
 - Ko, A.J., Oleson, A., Ryan, N., Register, Y., Xie, B., Tari, M., Davidson, M., Druga, S., and Loksa, D. (2020 November). *It is time for more critical CS education*. Communications of the ACM 63:11, 31–33. [https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext](https://cacm.acm.org/magazines/2020/11/248199-it-is-time-for-more-critical-cs-education/fulltext)
 
