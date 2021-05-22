@@ -18,6 +18,8 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 
 ## Recent Work
 
+- Xie, B., Davidson, M., Franke, B., McLeod, E., Li, M., & Ko, A.J. (2021 June). *Domain Experts' Interpretations of Assessment Bias in a Scaled, Online Computer Science Curriculum*. L@S '21: Proceedings of the 8th ACM Conference on Learning @ Scale, virtual event. [https://dx/doi/org/10.1145/3430895.3460141 (link will work from June 22)](https://dx.doi.org/10.1145/3430895.3460141)
+
 - Davidson, M. & Li, M. (2021 April). *Nonconstruct Item Features and Response Processes in Computer Science Assessments: Evidence From Think-Alouds and Sequence Analysis*. Presented at the American Education Research Association Annual Meeting, virtual event. [View the iPresentation](https://bit.ly/AERA21-poster), [Watch a recording of the talk (youtube)](https://bit.ly/AERA21-video), [Read a blog post on the methods we used](https://bit.ly/AERA21-sequences)
 
 - Davidson, M., Wortzman, B., Ko, A.J., & Li, M. (2021 March). *Investigating Item Bias in a CS1 Exam with Differential Item Functioning*. SIGCSE '21: Proceedings of the 52nd ACM Technical Symposium on Computer Science Education, 1142–1148. [https://doi.org/10.1145/3408877.3432397](https://doi.org/10.1145/3408877.3432397) More at [bit.ly/sigcse21DIF](https://bit.ly/sigcse21DIF)
