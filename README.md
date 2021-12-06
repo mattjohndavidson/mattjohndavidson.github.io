@@ -18,6 +18,8 @@ Matt is a PhD candidate at the University of Washington College of Education, in
 
 ## Recent Work
 
+- Davidson, M. (2021 August). *Towards an Understanding of Program Writing as a Cognitive Process: Analysis of Keystroke Logs*. ICER '21: Proceedings of the 17th ACM Conference on International Computing Education Research, virtual event. [https://doi.org/10.1145/3446871.3469774](https://doi.org/10.1145/3446871.3469774)
+
 - Xie, B., Davidson, M., Franke, B., McLeod, E., Li, M., & Ko, A.J. (2021 June). *Domain Experts' Interpretations of Assessment Bias in a Scaled, Online Computer Science Curriculum*. L@S '21: Proceedings of the 8th ACM Conference on Learning @ Scale, virtual event. [https://dx/doi/org/10.1145/3430895.3460141](https://dx.doi.org/10.1145/3430895.3460141)
 
 - Davidson, M. & Li, M. (2021 April). *Nonconstruct Item Features and Response Processes in Computer Science Assessments: Evidence From Think-Alouds and Sequence Analysis*. Presented at the American Education Research Association Annual Meeting, virtual event. [View the iPresentation](https://bit.ly/AERA21-poster), [Watch a recording of the talk (youtube)](https://bit.ly/AERA21-video), [Read a blog post on the methods we used](https://bit.ly/AERA21-sequences)
